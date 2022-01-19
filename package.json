@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fherrerao/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fherrerao/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/fherrerao/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
